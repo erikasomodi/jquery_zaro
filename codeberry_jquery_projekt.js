@@ -23,6 +23,6 @@ $(document).ready(function () {
     		$(this).hide();
 	});
 });
-
+// kovetkezo lepes
 //4. ha a telepulesre kattintunk a terkepen, akkor megjelenjen a fenykep nezegeto carousel
 
