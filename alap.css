@@ -1,0 +1,24 @@
+body {
+	position: relative;
+}
+area#nograd {
+	display: block;
+	cursor: pointer;
+}
+div#nograd_bg {
+	background-color: rgba(5, 5, 128);
+	left: 650px;
+	top: 280px;
+	border-radius: 50%;
+	display: inline-block;
+}
+.elmenyek {
+	display: none;
+	position: absolute;
+	left: 600px;
+	top: 200px;
+	padding: 10px;
+	margin-bottom: 10px;
+	vertical-align: top;
+	background-color: yellow;
+}
